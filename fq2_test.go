@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Overclock-Validator/go-bls"
 )
 
 var (

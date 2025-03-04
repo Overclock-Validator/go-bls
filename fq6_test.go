@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Overclock-Validator/go-bls"
 )
 
 func TestFQ6MultiplyByNonresidue(t *testing.T) {

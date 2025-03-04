@@ -3,7 +3,7 @@ package bls_test
 import (
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Overclock-Validator/go-bls"
 )
 
 func BenchmarkFQAdd(b *testing.B) {

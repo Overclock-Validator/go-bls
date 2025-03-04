@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/Overclock-Validator/go-bls"
 )
 
 func SignVerify(loopCount int) error {
